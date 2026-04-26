@@ -32,4 +32,4 @@ Builds a small cloud-native e-commerce backend from scratch using two Python Fla
 ---
 
 > **Course:** Cloud and Mobile Computing  
-> **Tools used:** Docker, Kubernetes (kind), Redis, etcd, Python Flask, AWS EC2
+> **Name:** Habiba saad SE3

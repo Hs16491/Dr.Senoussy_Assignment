@@ -8,10 +8,10 @@ This repository contains the completed lab submissions for the Cloud and Mobile 
 
 | Lab | Topic | Link |
 |-----|-------|------|
-| Lab 01 | Cloud Virtualization and Data Center Architecture | [View Lab](./CMC_Lab_01/) |
-| Lab 02 | Distributed Consistency and Consensus | [View Lab](./CMC_Lab_02/) |
-| Lab 03 | Containerization and Cluster Orchestration | [View Lab](./CMC_Lab_03/) |
-| Lab 04 | Microservices and Cloud-Native Design | [View Lab](./CMC_Lab_04/) |
+| Lab 01 | Cloud Virtualization and Data Center Architecture | [View Lab](lab1/) |
+| Lab 02 | Distributed Consistency and Consensus | [View Lab](lab2/) |
+| Lab 03 | Containerization and Cluster Orchestration | [View Lab](lab3/) |
+| Lab 04 | Microservices and Cloud-Native Design | [View Lab](lab4/) |
 
 ---
 
